@@ -1,0 +1,10 @@
+{
+  "name": "SnapDTR",
+  "description": "AI-assisted employee Daily Time Record platform with timestamp photo verification, configurable break policies, and formal Excel/PDF exports.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
